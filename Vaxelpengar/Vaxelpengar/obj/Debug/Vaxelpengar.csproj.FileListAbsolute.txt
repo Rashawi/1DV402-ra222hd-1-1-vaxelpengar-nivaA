@@ -1,0 +1,5 @@
+c:\users\rasha\documents\visual studio 2013\Projects\Vaxelpengar\Vaxelpengar\bin\Debug\Vaxelpengar.exe.config
+C:\Users\Rasha\Documents\Visual Studio 2013\Projects\Vaxelpengar\Vaxelpengar\bin\Debug\Vaxelpengar.exe
+C:\Users\Rasha\Documents\Visual Studio 2013\Projects\Vaxelpengar\Vaxelpengar\bin\Debug\Vaxelpengar.pdb
+C:\Users\Rasha\Documents\Visual Studio 2013\Projects\Vaxelpengar\Vaxelpengar\obj\Debug\Vaxelpengar.exe
+C:\Users\Rasha\Documents\Visual Studio 2013\Projects\Vaxelpengar\Vaxelpengar\obj\Debug\Vaxelpengar.pdb
